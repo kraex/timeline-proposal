@@ -39,7 +39,7 @@ in the future.
 Creating one is as easy as filling in a Google spreadsheet or as detailed as
 JSON.
 
-#This is a modification of the TimelineJS that includes some customer graphics and script changes.
+This is a modification of the TimelineJS that includes some custom graphics and script changes.
  
 ## Add it to your site
 ### Using Inline (*easiest*)
